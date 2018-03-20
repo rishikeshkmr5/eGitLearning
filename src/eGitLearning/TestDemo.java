@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	
 	System.out.println("stashing step2");
 
-	System.out.println("learned staashing step1");
+	
 	
 	
 
